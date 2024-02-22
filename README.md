@@ -64,18 +64,18 @@ e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yan
 
 ## **Test Case**
 #### Testing 1 add item
-![Test Case 1]
+![Test Case 1](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%201.JPG)
 
 #### Testing 2 Delete items
-![Test Case 2]
+![Test Case 2](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%202.JPG)
 
 #### Testing 3 Reset Transaction
-![Test Case 3]
+![Test Case 3](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%203.JPG)
 
 #### Testing 4 Check Order
-![Test Case 4]
+![Test Case 4](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%204.JPG)
 
 #### Testing 5 Menghitung Total yang harus dibayar
-![Test Case 5]
+![Test Case 5](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%205.JPG)
 
 ## **Saran Perbaikan**
