@@ -91,3 +91,5 @@ e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yan
 ![Test Case 8](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%208.JPG)
 
 ## **Saran Perbaikan**
+- Membuat tampilan display menu agar memudahkan customer dalam melakukan transaksi
+- Membuat database untuk menyimpan data nama barang, jumlah barang yang tersedia
