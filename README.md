@@ -44,7 +44,7 @@ c) Jika terdapat kesalahan input, customer dapat memperbarui data item:
   - Perbarui harga item
     
 d) Customer dapat membatalkan pembelian barang:
-  - Hapus 1 barang
+  - Hapus 1 baris item
   - Reset semua transaksi.
     
 e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yang ditetapkan
@@ -61,7 +61,7 @@ e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yan
 * `update_item_name()` : digunakan untuk mengganti nama item pada daftar transaksi dari nama lama menjadi nama baru. Parameter `old_name` yaitu nama item lama yang ingin diganti , `new_name` adalah nama item baru
 * `update_item_qty()` : digunakan untuk memperbarui jumlah item dalam transaksi. Parameter `name` adalah nama item yang jumlahnya ingin diganti, `new_qty` adalah jumlah item baru
 * `update_item_price()` : digunakan untuk memperbarui harga per item dalam transaksi. Parameter `name` adalah nama item yang jumlahnya ingin diganti,`new_price` adalah harga item baru
-* `delete_item()`: digunakan untuk menghapus baris item yang ada di list_item. Parameter `nama_item` adalah nama item yang ingin dihapus
+* `delete_item()`: digunakan untuk menghapus 1 baris item yang ada di list_item. Parameter `nama_item` adalah nama item yang ingin dihapus
 * `reset_transaction()` : digunakan untuk mereset transaksi dengan mengosongkan daftar item
 * `total_price()`: digunakan untuk menghitung total harga pembelian dan diskon yang didapat
 
