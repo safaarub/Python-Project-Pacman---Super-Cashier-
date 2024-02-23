@@ -60,10 +60,10 @@ e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yan
 4) Jika customer ingin membatalkan pesanan dapat menggunakan method delete tetapi jika customer ingin membatalkan semua transaksi maka menggunakan method reset transaction
 5) Ketika daftar item yang sudah diinputkan customer benar maka outputnya "Transaksi Sudah Benar"
 6) Langkah selanjutnya menghitung total harga dan diskon yang di dapat dengan syarat :
-  - jika total harga lebih dari 500.000 maka mendapatkan diskon 10%
-  - jika total harga lebih dari 300.000 maka mendapatkan diskon 8%
-  - jika total harga lebih dari 200.000 maka mendapatkan diskon 5%
-  - jika total harga kurang dari 200 maka tidak mendapatkan diskon
+  - jika total harga lebih dari Rp 500.000 maka mendapatkan diskon 10%
+  - jika total harga lebih dari Rp 300.000 maka mendapatkan diskon 8%
+  - jika total harga lebih dari Rp 200.000 maka mendapatkan diskon 5%
+  - jika total harga kurang dari Rp 200.000 maka tidak mendapatkan diskon
 7) Menampilkan total diskon yang di dapat dan total yang harus dibayar
 ## **Functions**
 * `add_item()` : digunakan untuk menambahkan item ke dalam item transaksi. Parameter `nama_item`, `jumlah_item`, `harga_item`
@@ -103,4 +103,4 @@ e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yan
 
 ## **Saran Perbaikan**
 - Membuat tampilan display menu agar memudahkan customer dalam melakukan transaksi
-- Membuat database untuk menyimpan data nama barang, jumlah barang yang tersedia
+- Menambahkan fitur katalog belanja atau daftar barang yang tersedia di supermarket yang terhubung dengan database untuk meminimalkan kesalahan.
