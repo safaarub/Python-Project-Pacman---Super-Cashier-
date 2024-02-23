@@ -52,6 +52,8 @@ e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yan
 ## **Flowchart**
 ![Flowchart - Supermarket Andi](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Flowchart%20-%20Supermarket%20Andi.jpeg)
 
+### Penjelasan Alur Code
+
 ## **Functions**
 * `add_item()` : digunakan untuk menambahkan item ke dalam item transaksi. Parameter `nama_item`, `jumlah_item`, `harga_item`
 * `chek_order()` : digunakan untuk memeriksa apakah transaksi sudah benar atau terdapat kesalahan dalam melakukan input data
@@ -78,5 +80,14 @@ e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yan
 
 #### Testing 5 Menghitung Total yang harus dibayar
 ![Test Case 5](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%205.JPG)
+
+#### Testing 6 Update Item Name
+![Test Case 6](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%206.JPG)
+
+#### Testing 7 Update Item Jumlah
+![Test Case 7](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%207.JPG)
+
+#### # Testing 8 Update Item Harga
+![Test Case 8](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Test%20Case%208.JPG)
 
 ## **Saran Perbaikan**
