@@ -50,6 +50,7 @@ d) Customer dapat membatalkan pembelian barang:
 e) Customer dapat menghitung total pembelian dan diskon sesuai dengan aturan yang ditetapkan
 
 ## **Flowchart**
+![Flowchart - Supermarket Andi](https://github.com/safaarub/Python-Project-Pacman---Super-Cashier-/blob/main/images/Flowchart%20-%20Supermarket%20Andi.jpeg)
 
 ## **Functions**
 * `add_item()` : digunakan untuk menambahkan item ke dalam item transaksi. Parameter `nama_item`, `jumlah_item`, `harga_item`
